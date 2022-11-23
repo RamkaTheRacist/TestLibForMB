@@ -53,7 +53,7 @@ VALUES
 (7, 3),
 (8, 4),
 (10, 4)
-Select ProductName, CategoryName
+SELECT ProductName, CategoryName
 FROM products
 LEFT JOIN productList
 	ON products.Id = productList.ProductId
