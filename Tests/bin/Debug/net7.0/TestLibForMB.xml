@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TestLibForMB</name>
+    </assembly>
+    <members>
+        <member name="T:TestLibForMB.Logic.Base.BaseFigure">
+            <summary>
+            Base class for any figure
+            </summary>
+        </member>
+        <member name="M:TestLibForMB.Logic.Base.BaseFigure.#ctor(System.Double)">
+            <summary>
+            Base constructor for any figure
+            </summary>
+            <param name="anySide">Base parameter for any figure (figure can`t has 0 parameters)</param>
+        </member>
+        <member name="M:TestLibForMB.Logic.Base.BaseFigure.GetSquare(System.Int32)">
+            <summary>
+            Method for getting square of figure with specified number of digits after the decimal point
+            </summary>
+            <param name="digits">Number of digits after the decimal point. Default 2.</param>
+            <returns>Number of square of figure as double-type number </returns>
+        </member>
+        <member name="T:TestLibForMB.Logic.Exceptions.CircleArgumentException">
+            <summary>
+            The exception that is thrown when radius of circle is or less than zero 
+            </summary>
+        </member>
+        <member name="M:TestLibForMB.Logic.Exceptions.CircleArgumentException.#ctor(System.String)">
+            <summary>
+            Constructor of CircleArgumentException with message
+            </summary>
+            <param name="message">Message for exception</param>
+        </member>
+        <member name="T:TestLibForMB.Logic.Exceptions.TriangleArgumentException">
+            <summary>
+            The exception that is thrown when side of triangle is or less than zero 
+            </summary>
+        </member>
+        <member name="M:TestLibForMB.Logic.Exceptions.TriangleArgumentException.#ctor(System.String)">
+            <summary>
+            Constructor of TriangleArgumentException with message
+            </summary>
+            <param name="message">Message for exception</param>
+        </member>
+        <member name="T:TestLibForMB.Logic.FigureCircle.Circle">
+            <summary>
+            Create figure "circle". Extends BaseFigure
+            </summary>
+        </member>
+        <member name="M:TestLibForMB.Logic.FigureCircle.Circle.#ctor(System.Double)">
+            <summary>
+            Base constructor for creating circle
+            </summary>
+            <param name="radius">Radius of circle</param>
+        </member>
+        <member name="M:TestLibForMB.Logic.FigureCircle.Circle.GetSquare(System.Int32)">
+            <summary>
+            Method for getting square of circle with specified number of digits after the decimal point
+            </summary>
+            <param name="digits">Number of digits after the decimal point. Default 2</param>
+            <returns>Number of square of figure as double-type number </returns>
+        </member>
+        <member name="T:TestLibForMB.Logic.FigureTriangle.Triangle">
+            <summary>
+            Create figure "triangle". Extends BaseFigure
+            </summary>
+        </member>
+        <member name="F:TestLibForMB.Logic.FigureTriangle.Triangle.isRight">
+            <summary>
+            Boolean value which contains value if triangle is right or not 
+            </summary>
+        </member>
+        <member name="M:TestLibForMB.Logic.FigureTriangle.Triangle.#ctor(System.Double,System.Double,System.Double)">
+            <summary>
+            Base constructor for creating triangle
+            </summary>
+            <param name="sideA">First side of triangle</param>
+            <param name="sideB">Second side of triangle</param>
+            <param name="sideC">Third side of triangle</param>
+        </member>
+        <member name="M:TestLibForMB.Logic.FigureTriangle.Triangle.GetSquare(System.Int32)">
+            <summary>
+            Method for getting square of triangle with specified number of digits after the decimal point
+            </summary>
+            <param name="digits">Number of digits after the decimal point. Default 2</param>
+            <returns>Number of square of figure as double-type number</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Knnxp/sIGxiK78TEZgIoG27PWWU6636xoS0iybMagN5wYr/vJXBukrBE/MnDlrNxyA3A8Bk2obA3ve4At1apWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\where\\source\\repos\\TestSolution\\TestLibForMB\\TestLibForMB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\where\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
+    "C:\\Users\\where\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "C:\\Users\\where\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

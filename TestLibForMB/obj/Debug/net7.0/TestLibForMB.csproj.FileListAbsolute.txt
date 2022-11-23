@@ -1,0 +1,15 @@
+C:\Users\where\source\repos\TestSolution\TestLibForMB\bin\Debug\net7.0\TestLibForMB.deps.json
+C:\Users\where\source\repos\TestSolution\TestLibForMB\bin\Debug\net7.0\TestLibForMB.dll
+C:\Users\where\source\repos\TestSolution\TestLibForMB\bin\Debug\net7.0\TestLibForMB.pdb
+C:\Users\where\source\repos\TestSolution\TestLibForMB\bin\Debug\net7.0\TestLibForMB.xml
+C:\Users\where\source\repos\TestSolution\TestLibForMB\obj\Debug\net7.0\TestLibForMB.csproj.AssemblyReference.cache
+C:\Users\where\source\repos\TestSolution\TestLibForMB\obj\Debug\net7.0\TestLibForMB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\where\source\repos\TestSolution\TestLibForMB\obj\Debug\net7.0\TestLibForMB.AssemblyInfoInputs.cache
+C:\Users\where\source\repos\TestSolution\TestLibForMB\obj\Debug\net7.0\TestLibForMB.AssemblyInfo.cs
+C:\Users\where\source\repos\TestSolution\TestLibForMB\obj\Debug\net7.0\TestLibForMB.csproj.CoreCompileInputs.cache
+C:\Users\where\source\repos\TestSolution\TestLibForMB\obj\Debug\net7.0\TestLibForMB.dll
+C:\Users\where\source\repos\TestSolution\TestLibForMB\obj\Debug\net7.0\refint\TestLibForMB.dll
+C:\Users\where\source\repos\TestSolution\TestLibForMB\obj\Debug\net7.0\TestLibForMB.xml
+C:\Users\where\source\repos\TestSolution\TestLibForMB\obj\Debug\net7.0\TestLibForMB.pdb
+C:\Users\where\source\repos\TestSolution\TestLibForMB\obj\Debug\net7.0\ref\TestLibForMB.dll
+C:\Users\where\source\repos\TestSolution\TestLibForMB\obj\Debug\net7.0\TestLibForMB.sourcelink.json
