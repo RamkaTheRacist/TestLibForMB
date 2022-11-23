@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <authors>RamkaTR</authors>
     <description>Test library for Mindbox.</description>
-    <repository type="git" />
+    <repository type="git" commit="5fe6f29d80c83b4e04cd02d1aff74dd62e2e16b9" />
     <dependencies>
       <group targetFramework="net7.0" />
     </dependencies>
